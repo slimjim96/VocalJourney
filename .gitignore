@@ -1,0 +1,26 @@
+# Audio recordings — store locally, not in git
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.flac
+*.ogg
+*.aiff
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
